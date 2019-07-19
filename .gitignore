@@ -1,7 +1,8 @@
+### Django ###
+*.log
+*.pot
 *.pyc
-*~
-__pycache__
-myvenv
+__pycache__/
+local_settings.py
 db.sqlite3
-/static
-.DS_Store
+media
